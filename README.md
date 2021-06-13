@@ -1,4 +1,7 @@
 # tosimpledo
+
+Simple TODO app
+
 70% 
 
 A new Flutter project.
